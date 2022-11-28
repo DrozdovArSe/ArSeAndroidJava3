@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Дроздов А. С. ВТиП-302</string>
+
+    <string name="Ваш_компьютер">Ваше жилище</string>
+    <string name="Имя_пользователя">Имя пользователя</string>
+    <string name="Тип_комьютера">Форма владения</string>
+    <string name="Стационарный">Частная</string>
+    <string name="Мобильный">Многоквартирная</string>
+    <string name="Оперционная_система">Операционная система</string>
+    <string name="Windows">Windows</string>
+    <string name="Linux">Linux</string>
+    <string name="Mac">Mac</string>
+    <string name="Далее">Далее</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="Производитель_CPU">Этажность дома</string>
+    <string name="INTEL">5 этажей и менее</string>
+    <string name="AMD">От 6 до 10 этажей</string>
+    <string name="NVIDIA">NVIDIA</string>
+    <string name="БАЙКАЛ">10 этажей и более</string>
+    <string name="Производитель_материнской_платы">Тип дома</string>
+    <string name="Итоговые_данные">Итоговые данные</string>
+    <string name="CPU">Этажность дома</string>
+    <string name="name">Имя анкетируемого</string>
+    <string name="Опросник">Анкета</string>
+    <string name="Описание">Эта анкета призвана выяснить характеристики дома, в котором вы проживаете</string>
+
+
+    <string-array name="mathBoard_arrays">
+        <item>Кирпичный</item>
+        <item>Панельный</item>
+        <item>Монолитный</item>
+        <item>Иной</item>
+    </string-array>
+</resources>
